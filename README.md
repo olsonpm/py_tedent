@@ -10,15 +10,14 @@ Keep your multi-line templated strings lookin' good :sunglasses:
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Tedent](#tedent)
-    - [What is it?](#what-is-it)
-    - [What does the name stand for?](#what-does-the-name-stand-for)
-    - [Why create it?](#why-create-it)
-    - [Simple Usage](#simple-usage)
-    - [Questions about how the indentation works?](#questions-about-how-the-indentation-works)
-    - [Important Usage Notes](#important-usage-notes)
-      - [input requirements](#edge-cases-and-input-requirements)
-    - [Test](#test)
+- [What is it?](#what-is-it)
+- [What does the name stand for?](#what-does-the-name-stand-for)
+- [Why create it?](#why-create-it)
+- [Simple Usage](#simple-usage)
+- [Questions about how the indentation works?](#questions-about-how-the-indentation-works)
+- [Important Usage Notes](#important-usage-notes)
+  - [input requirements](#edge-cases-and-input-requirements)
+- [Test](#test)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
