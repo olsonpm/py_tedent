@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tedent"
-version = "0.1.0"
+version = "0.1.1"
 description = "like dedent but more flexible"
 authors = ["Philip Olson <philip.olson@pm.me>"]
 readme = "README.md"

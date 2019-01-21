@@ -2,7 +2,7 @@
 
 Keep your multi-line templated strings lookin' good :sunglasses:
 
-*This is a python version of [tedent](github.com/olsonpm/tedent)*
+*This is a python version of [tedent](https://github.com/olsonpm/tedent)*
 
 <br>
 
