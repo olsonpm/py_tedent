@@ -9,12 +9,19 @@ include = ["license.txt"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-wrapt = "^1.11"
-ordered_set = "^3.1"
 
 [tool.poetry.dev-dependencies]
 case_conversion = "^2.1"
 simple_chalk = "^0.1.0"
+black = {version = "^18.3-alpha.0",allows-prereleases = true}
+
+[tool.vendorize]
+target = "tedent/_vendor"
+packages = [
+  "ordered_set >=3.1,<3.2",
+  "wrapt >=1.11,<1.12",
+]
+
 [build-system]
 requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"
